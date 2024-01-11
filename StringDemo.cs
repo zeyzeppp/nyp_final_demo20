@@ -19,13 +19,16 @@ namespace final_calisma_demo
             {
                 Console.Write(z[i]);
             }
-            
+
+
+            String a = new String('z', 5);
+            Console.WriteLine(a);
 
 
         }
-
         
 
 
     }
+}
 }
