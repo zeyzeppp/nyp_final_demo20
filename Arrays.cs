@@ -7,7 +7,7 @@ namespace final_calisma_demo
     class Arrays
     {
 
-        public static void Main5()
+        public static void Main()
         {
             int[] a;
             int[] b;
