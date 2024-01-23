@@ -23,7 +23,7 @@ namespace final_calisma_demo
             SehirPlakalari p2 = SehirPlakalari.Bursa;
 
             int result = p2 - p1;
-            Console.WriteLine(result); // enum turlerinde cıkartma islemi yapılabilir ama cıkartma islemi yapilamaz.
+            Console.WriteLine(result); // enum turlerinde cıkartma islemi yapılabilir ama toplama islemi yapilamaz.
 
             Console.WriteLine("{0}", Convert.ToInt32(p1));
 
